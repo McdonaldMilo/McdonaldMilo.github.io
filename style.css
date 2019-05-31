@@ -1,0 +1,14 @@
+html, body {
+  background: lightgrey;
+  margin: 0;
+  padding: 0;
+}
+
+#all {
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+}
+
